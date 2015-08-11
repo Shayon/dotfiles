@@ -1,6 +1,6 @@
 [user]
-  name = Andrew Seward
-  email = awswrd@gmail.com
+  name = Shayon Javadizadeh
+  email = shyjavadi@gmail.com
 [alias]
   l = log master..
   st = status
@@ -43,7 +43,7 @@
 [core]
   autocrlf = input
   safecrlf = false
-  editor = vim
+  editor = emacs
 [diff]
   algorithm = patience
 [init]

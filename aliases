@@ -8,6 +8,7 @@ alias rm='rm -Iv'
 alias g='grep -Irisn --color=auto'
 alias p='ps -a'
 alias back='cd -'
+alias drive='cd ~/../../../cygdrive/c/Users/Shayon/Procore/procore_for_desktop/'
 
 ### git
 # alias gb='git_branch'
